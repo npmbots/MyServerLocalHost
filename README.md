@@ -66,7 +66,7 @@ Open the termux app and type following commands.
 
 * `apt install git`
 
-* `git clone https://github.com/Rajkumrdusad/MyServer.git`
+* `git clone https://github.com/npmbots/MyServerLocalHost.git`
 
 * `cd MyServer`
 
